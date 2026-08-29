@@ -1,0 +1,15 @@
+{
+  "name": "英语（二）AI 单词本",
+  "short_name": "英语二单词",
+  "description": "00015 英语（二）私人 AI 单词本，支持手写和试卷拍照识词",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#f7f8fb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
